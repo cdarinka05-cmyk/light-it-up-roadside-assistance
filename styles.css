@@ -242,6 +242,7 @@ body {
   padding: 18px;
   font-size: 22px;
   font-weight: bold;
+  text-align: center;
   text-decoration: none;
 }
 
@@ -308,4 +309,5 @@ h2 {
   margin-top: 40px;
   color: #aaa;
 }
+
 
