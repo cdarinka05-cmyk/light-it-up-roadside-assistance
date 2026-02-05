@@ -241,6 +241,7 @@ body {
 .call-bar {
   display: block;
   width: 100%;
+  box-sizing: border-box;  
   background: #f1c40f;
   color: #000;
   padding: 18px;
@@ -313,6 +314,7 @@ h2 {
   margin-top: 40px;
   color: #aaa;
 }
+
 
 
 
