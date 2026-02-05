@@ -19,9 +19,11 @@ body {
   width: 100%;
   background: #f1c40f;
   color: #000;
-  padding: 18px;
-  font-size: 22px;
-  font-weight: bold;
+  padding: 22px;
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  text transform: uppercase;
   text-decoration: none;
 }
 
@@ -88,4 +90,5 @@ h2 {
   margin-top: 40px;
   color: #aaa;
 }
+
 
