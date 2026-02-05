@@ -15,20 +15,14 @@ body {
 
 /* Call Bar */
 .call-bar {
- .call-bar {
-    display: flex;            
-    justify-content: center;  
-    align-items: center;     
-    gap: 15px;                 
-    width: 100%;
-    box-sizing: border-box; 
-    background: #f1c40f;
-    color: #000;
-    padding: 22px;
-    font-size: 28px;
-    font-weight: 900;
-    text-transform: uppercase;
-    text-decoration: none;
+  display: block;
+  width: 100%;
+  background: #f1c40f;
+  color: #000;
+  padding: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 /* Container */
@@ -94,8 +88,3 @@ h2 {
   margin-top: 40px;
   color: #aaa;
 }
-
-
-
-
-
